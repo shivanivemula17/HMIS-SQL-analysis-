@@ -1,0 +1,59 @@
+operations on sql
+===============
+1.creating database 
+2.CREATING TABLES
+3.LINKING THE TABLES
+4.CHECKING THE STRUCTURE OF THE TABLES
+5.INSERTING THE DATA INTO THE TABLES
+6.checking the data
+7.updating the table column data
+
+
+
+queries on data
+===============
+1. Retrieve all details of employees
+
+2.Get all doctors' details, including their department names
+
+3.List all outpatients along with their appointment details
+
+4. Retrieve all employees who joined before 2017
+
+5.Get details of in-patients who have not yet been discharged
+
+6. Find all doctors specializing in "Cardiology"
+
+7. List all employees ordered by their joining date (earliest to latest)
+
+8. Display all outpatients sorted by age in descending order
+
+9. Count the number of employees
+
+10. Find the average age of outpatients
+
+11. Get the total appointment fees collected for all departments
+
+12.Find the number of employees in each title (e.g., receptionist, nurse, etc.)
+
+13. List the total number of appointments per department
+
+14. Retrieve all appointments along with the doctor's and patient's names
+
+15. Get all in-patients along with their corresponding out-patient details
+
+16. List all employees who are also doctors
+
+17. Find employees who joined after the average joining date of all employees
+
+18. Update an employee's phone number
+
+19. Set all in-patients who have been admitted for over 30 days as "Long Stay"
+
+20. Remove a record of an employee who has left
+
+21. Delete an out-patient record where the patient has been admitted as an in-patient
+
+22. List all doctors and the number of outpatients they have treated
+
+23. Get the department with the highest number of appointments
